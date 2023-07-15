@@ -32,8 +32,7 @@ nav ul li a {
 main {
   padding: 20px;
   padding-left: 300px;
-  padding-right: 300px; 
-  /* margin-top: -300px; /* Reduce the top margin to adjust the spacing */
+  padding-right: 300px;
   box-sizing: border-box;
 }
 
